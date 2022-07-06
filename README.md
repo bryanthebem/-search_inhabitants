@@ -1,0 +1,2 @@
+# -search_inhabitants
+Creation of an algorithm in which " The city hall of a city carried out a survey among its inhabitants, collecting data on salary and the number of children. Write a program that reads this data for an undetermined number of people and returns the average salary of the population, the average number of children, the highest salary and the percentage of people with a salary below the minimum wage."
